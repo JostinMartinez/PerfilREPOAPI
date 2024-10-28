@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yuWHbKA2yabUFwX9FqMoZGoaRvgTGaykZvqKuZuJ95c=",
+  "Source": "PedidosAPIREST",
+  "BasePath": "_content/PedidosAPIREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
